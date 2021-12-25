@@ -5,6 +5,6 @@ const fs=require('fs');
 // const data=fs.readFileSync('thapa/bio.txt',"utf-8")
 // const p=data.toString();
 // fs.renameSync("thapa/bio.txt","thapa/mybio.txt")
-console.log(data,"data");
+// console.log(data,"data");
 fs.unlinkSync("thapa/mybio.txt")
 fs.rmdirSync("thapa")
