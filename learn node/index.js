@@ -7,4 +7,5 @@ const fs=require('fs');
 // fs.renameSync("thapa/bio.txt","thapa/mybio.txt")
 // console.log(data,"data");
 // fs.unlinkSync("thapa/mybio.txt")
-fs.rmdirSync("thapa")
+// fs.rmdirSync("thapa")
+console.log("jaayte");
